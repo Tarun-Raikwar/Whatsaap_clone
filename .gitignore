@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+whatsaap/node_modules
+whatsaap_backend/node_modules
+whatsaap/.pnp
+whatsaap/.pnp.js
+
+# testing
+whatsaap/coverage
+
+# production
+whatsaap/build
+
+# misc
+whatsaap/.DS_Store
+whatsaap/.env.local
+whatsaap/.env.development.local
+whatsaap/.env.test.local
+whatsaap/.env.production.local
+
+whatsaap/npm-debug.log*
+whatsaap/yarn-debug.log*
+whatsaap/yarn-error.log*

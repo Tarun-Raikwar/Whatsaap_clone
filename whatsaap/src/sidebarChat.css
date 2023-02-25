@@ -1,0 +1,18 @@
+.sidebarChat{
+    display: flex;
+    /* border: 2px solid red;    */
+    padding: 15px 10px;
+}
+.info{
+    /* border: 2px solid black; */
+    margin-left: 10px;
+}
+.room{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 4px 0px;
+}
+.sidebarChat:hover{
+    background-color: rgb(243, 239, 239);
+    cursor: pointer;
+}
